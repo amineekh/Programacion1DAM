@@ -9,6 +9,9 @@ public class UsoMetdosString {
         String pais22="ecuador";
         //char
 
+
+
+
         System.out.println("la iniccial de este pais es " +pais.charAt(0));
         System.out.println("la final de este pais es " +pais.charAt(pais.length() -1));
         System.out.println("numeros de letras " +pais.length());
